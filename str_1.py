@@ -1,4 +1,3 @@
-
 def search_substr(str, substr):
   if sybstr in str:
     print('substring is in string')
@@ -10,3 +9,4 @@ while y == 'y':
   input_substr = input('enter substring: ')
   search_substr(input_str, input_substr)
   y = input('restart?(y/n): ')
+print('goodbye')
