@@ -1,5 +1,5 @@
 def search_substr(str, substr):
-  if sybstr in str:
+  if main_str.count(sub_str) > 0:
     print('substring is in string')
   else:
     print('there is no substring in string')
