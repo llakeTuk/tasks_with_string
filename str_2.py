@@ -1,4 +1,3 @@
-
 def first_and_last(letter, str):
   if str.find(letter) < 0:
     return None, None
@@ -9,3 +8,4 @@ while y == 'y':
   input_letter = input('enter letter to find in string: ')
   print(first_and_last(input_letter, input_str))
   y = input('restart?(y/n): ')
+print('goodbye')
