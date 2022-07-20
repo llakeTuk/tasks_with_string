@@ -8,3 +8,4 @@ while y == 'y':
   input_int = int(input('enter size of most common letters in string: '))
   print(most_counted(input_str, input_int))
   y = input('restart?(y/n): ')
+print('goodbye')
