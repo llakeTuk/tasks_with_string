@@ -1,4 +1,3 @@
-
 def string_letter_sort(enter_str):
   vowel_str = ''
   consonant_str = ''
@@ -22,3 +21,4 @@ while y == 'y':
   input_str = input('enter string: ')
   string_letter_sort(input_str)
   y = input('restart?(y/n): ')
+print('goodbye')
