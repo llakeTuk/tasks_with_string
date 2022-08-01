@@ -16,3 +16,4 @@ while y == 'y':
   input_str = input('enter string: ')
   print(str_fence(input_str))
   y = input('restart?(y/n): ')
+print('goodbye')
