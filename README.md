@@ -6,4 +6,4 @@ str_1
 str_2
 str_3
 str_4 - returns fence-string('AaAaA') from entered string;
-str_5
+str_5 - sorts entered string in two new strings, separate vowels;
