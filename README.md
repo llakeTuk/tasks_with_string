@@ -5,4 +5,5 @@ Contains:
 str_1
 str_2
 str_3
+str_4 - returns fence-string('AaAaA') from entered string;
 str_5
