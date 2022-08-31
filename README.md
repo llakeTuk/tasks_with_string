@@ -7,3 +7,4 @@ str_2 - shows first and last appearance of letter in string;
 str_3 - returns top of most common letters in string;
 str_4 - returns fence-string('AaAaA') from entered string;
 str_5 - sorts entered string in two new strings, separate vowels;
+str_6 - deletes wanted symbols from origin string
